@@ -1,0 +1,11 @@
+# package directories
+node_modules/
+
+# tsc directory
+build/
+
+# Testing
+coverage/
+
+# Environment variables
+.env
