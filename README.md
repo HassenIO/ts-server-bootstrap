@@ -10,9 +10,9 @@ First install necessary dependencies using:
 npm install
 ```
 
-Next, copy or rename `example.env` into `.env` and set the needed environment variables.
+Next, copy or rename `example.env` into `.env` and set the needed environment variables if necessary.
 
-Compile Typescript into Javascript using `npm run build:dev`. This will compile Typescript and wait for changes to trigger new compilation on changes.
+Compile Typescript into Javascript using `npm run build:dev`. This will compile Typescript and wait for changes to trigger a new compilation.
 
 To compile without watching, consider running `npm run build:prod`.
 
